@@ -11,5 +11,5 @@ Table of Contents
 Runs the code to give you the angles (X, Y).
 
 ## TO DO
-1. Make AngleOMeter a class
+~~1. Make AngleOMeter a class~~
 
